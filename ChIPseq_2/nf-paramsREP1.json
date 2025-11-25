@@ -1,0 +1,11 @@
+{
+    "input": "\/media\/mna_bioinfo\/MNA2_Stockage\/FABIEN_LEGRAND\/PAULINE_GARCIA\/chipseq\/designREP1.csv",
+    "read_length": 50,
+    "outdir": "\/media\/mna_bioinfo\/MNA2_Stockage\/FABIEN_LEGRAND\/PAULINE_GARCIA\/chipseqREP1",
+    "fasta": "/media/mna_bioinfo/DD_linux/references/Mmu/genome/Mus_musculus.GRCm38.dna.primary_assembly.fa",
+    "gtf": "/media/mna_bioinfo/DD_linux/references/Mmu/gtf/Mus_musculus.GRCm38.101.v2.gtf",
+    "macs_gsize": 2307679482,
+    "bwa_index": "/media/mna_bioinfo/DD_linux/references/Mmu/index/bwa",
+    "max_cpus": 10,
+    "max_memory": "100.GB"
+}
