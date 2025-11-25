@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+A,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/CTL1_S32_R1_001.fastq.gz,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/CTL1_S32_R2_001.fastq.gz,auto
+B,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/CTL2_S33_R1_001.fastq.gz,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/CTL2_S33_R2_001.fastq.gz,auto
+C,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/CTL3_S34_R1_001.fastq.gz,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/CTL3_S34_R2_001.fastq.gz,auto
+D,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/KO1_S35_R1_001.fastq.gz,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/KO1_S35_R2_001.fastq.gz,auto
+E,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/KO2_S36_R1_001.fastq.gz,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/KO2_S36_R2_001.fastq.gz,auto
+F,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/KO3_S37_R1_001.fastq.gz,/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/BulkRNAseq_2/fastq/KO3_S37_R2_001.fastq.gz,auto

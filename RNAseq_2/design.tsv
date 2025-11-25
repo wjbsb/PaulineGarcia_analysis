@@ -1,0 +1,7 @@
+sample	condition	replicate_number	rename	genotype
+A	control	1	HSA-CTL1	CTL
+B	control	2	HSA-CTL2	CTL
+C	control	3	HSA-CTL3	CTL
+D	treated	1	HSA-KO1	KO
+E	treated	2	HSA-KO2	KO
+F	treated	3	HSA-KO3	KO
