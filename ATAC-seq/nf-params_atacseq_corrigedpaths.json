@@ -1,0 +1,11 @@
+{
+    "input": "/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/ATAC-seq_PaulineGarcia/design.csv",
+    "outdir": "/media/mna_bioinfo/MNA2_Stockage/FABIEN_LEGRAND/PAULINE_GARCIA/ATAC-seq_PaulineGarcia/results_nfcoreatacseq_1.2.1.23062022",
+    "email": "william.jarassier@univ-lyon1.fr",
+    "fasta": "/media/mna_bioinfo/DD_linux/references/Mmu/genome/Mus_musculus.GRCm38.dna.primary_assembly.fa",
+    "gtf": "/media/mna_bioinfo/DD_linux/references/Mmu/gtf/Mus_musculus.GRCm38.101.v2.gtf",
+    "macs_gsize": "1.87e9",
+    "deseq2_vst": true,
+    "max_cpus": 20,
+    "max_memory": "40 GB"
+}

@@ -1,0 +1,7 @@
+sample	condition	replicate_number	rename	genotype
+006-CTL01-1	control	1	Setdb1^{+/+}	Setdb1^{+/+}
+006-CTL02-3	control	2	Setdb1^{+/+}	Setdb1^{+/+}
+006-TAM01-2	tam	1	Setdb1^{\u394/\u394}	Setdb1^{\u394/\u394}
+006-TAM02-4	tam	2	Setdb1^{\u394/\u394}	Setdb1^{\u394/\u394}
+006-WNT01-5	wnt	1	Wnt^{+/+}	Wnt^{+/+}
+006-WNT02-6	wnt	2	Wnt^{+/+}	Wnt^{+/+}

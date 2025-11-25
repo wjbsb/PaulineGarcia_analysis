@@ -1,0 +1,11 @@
+{
+    "input": "/media/legrand-lab/Stockage/InstitutNeuroMyoGene_DATA/EqLegrand/atacseq_pauline/design.csv",
+    "outdir": "/media/legrand-lab/Stockage/InstitutNeuroMyoGene_DATA/EqLegrand/atacseq_pauline/results",
+    "email": "william.jarassier@univ-lyon1.fr",
+    "fasta": "/home/legrand-lab/Bureau/references/Mmu/genome/Mus_musculus.GRCm38.dna.primary_assembly.fa",
+    "gtf": "/home/legrand-lab/Bureau/references/Mmu/gtf/Mus_musculus.GRCm38.101.v2.gtf",
+    "macs_gsize": "1.87e9",
+    "deseq2_vst": true,
+    "max_cpus": 20,
+    "max_memory": "40 GB"
+}
