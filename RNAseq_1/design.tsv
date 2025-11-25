@@ -1,0 +1,7 @@
+sample	condition	replicate_number	rename	genotype
+OSETDB1OIL273_S12	OIL_SETDB1	1	$Setdb1^{+/+}$ rep 1	$Setdb1^{+/+}$
+SETDB1OIL274_S8	OIL_SETDB1	2	$Setdb1^{+/+}$ rep 2	$Setdb1^{+/+}$
+SETDB1OIL276_S11	OIL_SETDB1	3	$Setdb1^{+/+}$ rep 3	$Setdb1^{+/+}$
+SETDB1TAMO263_S7	TAM_SETDB1	1	$Setdb1^{Δ/Δ}$ rep 1	$Setdb1^{Δ/Δ}$
+SETDB1TAMO265_S9	TAM_SETDB1	2	$Setdb1^{Δ/Δ}$ rep 2	$Setdb1^{Δ/Δ}$
+SETDB1TAMO275_S10	TAM_SETDB1	3	$Setdb1^{Δ/Δ}$ rep 3	$Setdb1^{Δ/Δ}$
